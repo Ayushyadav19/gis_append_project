@@ -1,0 +1,2 @@
+prefect==2.10.5          # Prefect for workflow orchestration
+arcgis==1.9.0            # ArcGIS API for Python to interact with GIS services
